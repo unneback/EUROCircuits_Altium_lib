@@ -1,0 +1,103 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\micha\Documents\GitHub\EUROCircuits_Altium_lib\EUROCircuits_Altium_lib.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=C:\Users\micha\Documents\GitHub\EUROCircuits_Altium_lib\EUROCircuits_Altium_lib.xls
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LastFocusedTable=GENR1206$
+[Table1]
+SchemaName=
+TableName=GENC0402$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Column10=109|Column20=109|Column30=135|Column40=109|Column50=109|Column60=109|Column70=518
+[Table2]
+SchemaName=
+TableName=GENC0603$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=GENC0805$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=GENC1206$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=GENC1210$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table6]
+SchemaName=
+TableName=GENR0402$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Values0=90|Resistance0=119|Part Number0=139|Tolerance0=114|Power0=87|Voltage0=99|Type0=79|Designator0=123|Footprint Ref 10=209|Footprint Ref 20=202|Footprint Ref 30=206|PCB Lib0=98|Scm Lib0=124|Library Ref0=120
+[Table7]
+SchemaName=
+TableName=GENR0603$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Values0=90|Resistance0=119|Part Number0=139|Tol# (%)0=102|Power0=87|Voltage0=99|Type0=79|Designator0=123|Footprint Ref 10=209|Footprint Ref 20=202|Footprint Ref 30=206|PCB Lib0=98|Scm Lib0=124|Library Ref0=120
+[Table8]
+SchemaName=
+TableName=GENR0805$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Column10=109|Column20=109|Column30=115|Column40=109|Column50=109|Column60=109|Type0=79|Designator0=123|Footprint Ref 10=209|Footprint Ref 20=202|Footprint Ref 30=206|PCB Lib0=147|Scm Lib0=124|Library Ref0=120
+[Table9]
+SchemaName=
+TableName=GENR1206$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Values0=90|Resistance0=119|Part Number0=139|Tol# (%)0=102|Power0=87|Voltage0=99|Type0=79|Designator0=123|Footprint Ref 10=209|Footprint Ref 20=202|Footprint Ref 30=206|PCB Lib0=98|Scm Lib0=124|Library Ref0=120
+[FieldMap1]
+Options=FieldName=GENC1206$.Part Number|TableNameOnly=GENC1206$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=GENC1210$.Part Number|TableNameOnly=GENC1210$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=GENR0402$.Values|TableNameOnly=GENR0402$|FieldNameOnly=Values|FieldType=1|ParameterName=Values|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=GENR0402$.Resistance|TableNameOnly=GENR0402$|FieldNameOnly=Resistance|FieldType=1|ParameterName=Resistance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=GENR0402$.Part Number|TableNameOnly=GENR0402$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=GENR0402$.Designator|TableNameOnly=GENR0402$|FieldNameOnly=Designator|FieldType=1|ParameterName=Designator|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=GENR0603$.Part Number|TableNameOnly=GENR0603$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=GENR1206$.Part Number|TableNameOnly=GENR1206$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

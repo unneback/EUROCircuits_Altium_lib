@@ -1,0 +1,241 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\micha\Documents\GitHub\EUROCircuits_Altium_lib\EUROCircuits_Altium_lib.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=C:\Users\micha\Documents\GitHub\EUROCircuits_Altium_lib\EUROCircuits_Altium_lib.xls
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=GENR0805$
+[Table1]
+SchemaName=
+TableName=GENC0402$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Values0=90|Capacitance0=133|Part Number0=139|Description0=518|Designator0=123|Footprint Ref 10=210|Footprint Ref 20=206|Footprint Ref 30=213|Library Ref0=120|Tolerance0=114|Voltage0=99|Dielectric0=110|Type0=79|PCB Lib0=98|Scm Lib0=124
+[Table2]
+SchemaName=
+TableName=GENC0603$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Values0=90|Capacitance0=133|Part Number0=139|Description0=518|Designator0=123|Footprint Ref 10=210|Footprint Ref 20=206|Footprint Ref 30=213|Library Ref0=120|Tolerance0=114|Voltage0=99|Dielectric0=110|Type0=79|PCB Lib0=98|Scm Lib0=124
+[Table3]
+SchemaName=
+TableName=GENC0805$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Values0=90|Capacitance0=133|Part Number0=140|Description0=518|Designator0=123|Footprint Ref 10=210|Footprint Ref 20=206|Footprint Ref 30=213|Library Ref0=120|Tolerance0=114|Voltage0=99|Dielectric0=110|Type0=79|PCB Lib0=98|Scm Lib0=124
+[Table4]
+SchemaName=
+TableName=GENC1206$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Values0=90|Capacitance0=133|Part Number0=139|Description0=466|Designator0=123|Footprint Ref 10=213|Footprint Ref 20=206|Footprint Ref 30=210|Library Ref0=120|Tolerance0=114|Voltage0=99|Dielectric0=110|Type0=79|PCB Lib0=98|Scm Lib0=124
+[Table5]
+SchemaName=
+TableName=GENC1210$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Values0=90|Capacitance0=133|Part Number0=139|Voltage0=99|Description0=466|Designator0=123|Footprint Ref 10=213|Footprint Ref 20=206|Footprint Ref 30=210|Library Ref0=120|Tolerance0=114|Dielectric0=110|Type0=79|PCB Lib0=98|Scm Lib0=124
+[Table6]
+SchemaName=
+TableName=GENR0402$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Values0=90|Resistance0=119|Part Number0=139|Designator0=123|Footprint Ref 10=209|Footprint Ref 20=202|Footprint Ref 30=206|Library Ref0=120|Tolerance0=114|Power0=87|Voltage0=99|Type0=79|PCB Lib0=98|Scm Lib0=124
+[Table7]
+SchemaName=
+TableName=GENR0603$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Values0=90|Resistance0=119|Part Number0=139|Designator0=123|Footprint Ref 10=209|Footprint Ref 20=202|Footprint Ref 30=206|Library Ref0=120|Tolerance0=114|Power0=87|Voltage0=99|Type0=79|PCB Lib0=98|Scm Lib0=124
+[Table8]
+SchemaName=
+TableName=GENR0805$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=139|Values0=90|Resistance0=119|Tolerance0=114|Power0=87|Voltage0=99|Type0=79|Designator0=123|Footprint Ref 10=209|Footprint Ref 20=202|Footprint Ref 30=206|PCB Lib0=147|Scm Lib0=124|Library Ref0=120
+[Table9]
+SchemaName=
+TableName=GENR1206$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=139|Values0=90|Resistance0=119|Tolerance0=114|Power0=87|Voltage0=99|Type0=79|Designator0=123|Footprint Ref 10=209|Footprint Ref 20=202|Footprint Ref 30=206|PCB Lib0=98|Scm Lib0=124|Library Ref0=120
+[FieldMap1]
+Options=FieldName=GENC0402$.Values|TableNameOnly=GENC0402$|FieldNameOnly=Values|FieldType=1|ParameterName=Values|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=GENC0402$.Capacitance|TableNameOnly=GENC0402$|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=GENC0402$.Part Number|TableNameOnly=GENC0402$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=GENC0402$.Description|TableNameOnly=GENC0402$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=GENC0402$.Footprint Ref 1|TableNameOnly=GENC0402$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=GENC0402$.Footprint Ref 2|TableNameOnly=GENC0402$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=GENC0402$.Footprint Ref 3|TableNameOnly=GENC0402$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=GENC0402$.Library Ref|TableNameOnly=GENC0402$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=GENC0603$.Values|TableNameOnly=GENC0603$|FieldNameOnly=Values|FieldType=1|ParameterName=Values|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=GENC0603$.Capacitance|TableNameOnly=GENC0603$|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=GENC0603$.Part Number|TableNameOnly=GENC0603$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=GENC0603$.Description|TableNameOnly=GENC0603$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=GENC0603$.Footprint Ref 1|TableNameOnly=GENC0603$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=GENC0603$.Footprint Ref 2|TableNameOnly=GENC0603$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=GENC0603$.Footprint Ref 3|TableNameOnly=GENC0603$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=GENC0603$.Library Ref|TableNameOnly=GENC0603$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=GENC0805$.Values|TableNameOnly=GENC0805$|FieldNameOnly=Values|FieldType=1|ParameterName=Values|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=GENC0805$.Capacitance|TableNameOnly=GENC0805$|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=GENC0805$.Part Number|TableNameOnly=GENC0805$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=GENC0805$.Description|TableNameOnly=GENC0805$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=GENC0805$.Footprint Ref 1|TableNameOnly=GENC0805$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=GENC0805$.Footprint Ref 2|TableNameOnly=GENC0805$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=GENC0805$.Footprint Ref 3|TableNameOnly=GENC0805$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=GENC0805$.Library Ref|TableNameOnly=GENC0805$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=GENC1206$.Values|TableNameOnly=GENC1206$|FieldNameOnly=Values|FieldType=1|ParameterName=Values|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=GENC1206$.Capacitance|TableNameOnly=GENC1206$|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=GENC1206$.Part Number|TableNameOnly=GENC1206$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=GENC1206$.Description|TableNameOnly=GENC1206$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=GENC1206$.Footprint Ref 1|TableNameOnly=GENC1206$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=GENC1206$.Footprint Ref 2|TableNameOnly=GENC1206$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=GENC1206$.Footprint Ref 3|TableNameOnly=GENC1206$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=GENC1206$.Library Ref|TableNameOnly=GENC1206$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=GENC1210$.Values|TableNameOnly=GENC1210$|FieldNameOnly=Values|FieldType=1|ParameterName=Values|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=GENC1210$.Capacitance|TableNameOnly=GENC1210$|FieldNameOnly=Capacitance|FieldType=1|ParameterName=Capacitance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=GENC1210$.Part Number|TableNameOnly=GENC1210$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=GENC1210$.Voltage|TableNameOnly=GENC1210$|FieldNameOnly=Voltage|FieldType=1|ParameterName=Voltage|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=GENC1210$.Description|TableNameOnly=GENC1210$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=GENC1210$.Footprint Ref 1|TableNameOnly=GENC1210$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=GENC1210$.Footprint Ref 2|TableNameOnly=GENC1210$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=GENC1210$.Footprint Ref 3|TableNameOnly=GENC1210$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=GENC1210$.Library Ref|TableNameOnly=GENC1210$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=GENR0402$.Values|TableNameOnly=GENR0402$|FieldNameOnly=Values|FieldType=1|ParameterName=Values|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=GENR0402$.Resistance|TableNameOnly=GENR0402$|FieldNameOnly=Resistance|FieldType=1|ParameterName=Resistance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=GENR0402$.Part Number|TableNameOnly=GENR0402$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=GENR0402$.Footprint Ref 1|TableNameOnly=GENR0402$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=GENR0402$.Footprint Ref 2|TableNameOnly=GENR0402$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=GENR0402$.Footprint Ref 3|TableNameOnly=GENR0402$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=GENR0402$.Library Ref|TableNameOnly=GENR0402$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=GENR0603$.Values|TableNameOnly=GENR0603$|FieldNameOnly=Values|FieldType=1|ParameterName=Values|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=GENR0603$.Resistance|TableNameOnly=GENR0603$|FieldNameOnly=Resistance|FieldType=1|ParameterName=Resistance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=GENR0603$.Part Number|TableNameOnly=GENR0603$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=GENR0603$.Footprint Ref 1|TableNameOnly=GENR0603$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=GENR0603$.Footprint Ref 2|TableNameOnly=GENR0603$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=GENR0603$.Footprint Ref 3|TableNameOnly=GENR0603$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=GENR0603$.Library Ref|TableNameOnly=GENR0603$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=GENR0805$.Part Number|TableNameOnly=GENR0805$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=GENR0805$.Values|TableNameOnly=GENR0805$|FieldNameOnly=Values|FieldType=1|ParameterName=Values|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=GENR0805$.Resistance|TableNameOnly=GENR0805$|FieldNameOnly=Resistance|FieldType=1|ParameterName=Resistance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=GENR0805$.Footprint Ref 1|TableNameOnly=GENR0805$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=GENR0805$.Footprint Ref 2|TableNameOnly=GENR0805$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=GENR0805$.Footprint Ref 3|TableNameOnly=GENR0805$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=GENR0805$.Library Ref|TableNameOnly=GENR0805$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=GENR1206$.Part Number|TableNameOnly=GENR1206$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=GENR1206$.Values|TableNameOnly=GENR1206$|FieldNameOnly=Values|FieldType=1|ParameterName=Values|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=GENR1206$.Resistance|TableNameOnly=GENR1206$|FieldNameOnly=Resistance|FieldType=1|ParameterName=Resistance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=GENR1206$.Footprint Ref 1|TableNameOnly=GENR1206$|FieldNameOnly=Footprint Ref 1|FieldType=1|ParameterName=[Footprint Ref 1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=GENR1206$.Footprint Ref 2|TableNameOnly=GENR1206$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=GENR1206$.Footprint Ref 3|TableNameOnly=GENR1206$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=GENR1206$.Library Ref|TableNameOnly=GENR1206$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

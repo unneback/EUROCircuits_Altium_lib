@@ -1,0 +1,12 @@
+Values	Capacitance	GPN	Tol. (%)	Voltage	Dielectric	Description
+100	nF	GPC1210104-25	10	25V	X7R	0.1µF ±10% 25V Ceramic Capacitor X7R 1210 (3225 Metric)
+100	nF	GPC1210104	10	50	X7R	0.1µF ±10% 50V Ceramic Capacitor X7R 1210 (3225 Metric)
+470	nF	GPC1210474	10	50V	X7R	0.47µF ±10% 50V Ceramic Capacitor X7R 1210 (3225 Metric)
+470	nF	GPC1210474-25	10	25V	X7R	0.47µF ±10% 25V Ceramic Capacitor X7R 1210 (3225 Metric)
+1	uF	GPC1210105	10	50V	X7R	1µF ±10% 50V Ceramic Capacitor X7R 1210 (3225 Metric)
+1	uF	GPC1210105-25	10	25V	X7R	1µF ±10% 25V Ceramic Capacitor X7R 1210 (3225 Metric)
+2,2	uF	GPC1210225-25	10	25V	X7R	2.2µF ±10% 25V Ceramic Capacitor X7R 1210 (3225 Metric)
+4.7	uF	GPC1210475-25	20	25V	X5R	4.7µF ±20% 25V Ceramic Capacitor X5R 1210 (3225 Metric)
+4.7	uF	GPC1210475	10	50V	X7R	4.7µF ±10% 50V Ceramic Capacitor X7R 1210 (3225 Metric)
+10	uF	GPC1210106	10	50V	X5R	10µF ±10% 50V Ceramic Capacitor X5R 1210 (3225 Metric)
+10	uF	GPC1210106-25	10	50V	X5R	10µF ±10% 50V Ceramic Capacitor X5R 1210 (3225 Metric)
